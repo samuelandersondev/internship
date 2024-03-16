@@ -5,7 +5,7 @@ export default function Home() {
     <main>
       <header>
         <div>
-          
+          <img src="logo.svg" alt="site logo" />
         </div>
       </header>
     </main>
